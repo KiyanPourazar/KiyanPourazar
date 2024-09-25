@@ -68,3 +68,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyanpourazar&layout=compact&theme=radical" alt="Top Languages">
 </p>
+
+---
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kiyanpourazar/kiyanpourazar/output/snake.svg" alt="Snake animation" />
