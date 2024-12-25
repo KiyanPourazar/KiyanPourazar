@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 - 🎓 I’m a AmirKabir university of technology student .
-- 💻 I’m proficient in **Python**, **Java**, **C**, **Go**, **Swift**, **Vhdl**.
+- 💻 I’m proficient in **Python**, **Java**, **C**, **Go**, **Swift**, **React**, **Java Script**.
 - 🌐 I also have experience working with **networking** technologies.
 - 🚀 Constantly learning new things, both in and outside of university.
 
