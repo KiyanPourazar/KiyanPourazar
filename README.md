@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
    </a>
-  <a href="https://t.me/iiKiyan">
+  <a href="https://t.me/KiyanPourazar">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://www.youtube.com/c/kiyan2003">
